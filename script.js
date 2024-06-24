@@ -11,8 +11,8 @@ resultado’);
 
 const perguntas = [ //abre lista de perguntas
 { //abre objeto de pergunta
-enunciado: “1- Qual dos seguintes ambientes é propício para o crescimento de fungos?”,
-alternativas: [
+enunciado: “Qual é o ”,
+alternativas:
 “A) Locais úmidos e quentes”,
 “B) Locais secos e frios”,
 “C) Locais ensolarados",
