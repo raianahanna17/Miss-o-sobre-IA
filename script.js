@@ -30,7 +30,7 @@ alternativas: [
 {
 texto: "a)  Locais úmidos e quentes",
 
-afirmacao: " Esta alternativa esta correta pois os fungos se desenvolvem melhor em ambientes com alta umidade e temperatura, favorecendo seu crescimento e reprodução." 
+afirmacao: " 1-A) Esta alternativa esta correta pois os fungos se desenvolvem melhor em ambientes com alta umidade e temperatura, favorecendo seu crescimento e reprodução." 
 },
 {
 texto: "b) Locais secos e frios",
@@ -58,7 +58,7 @@ afirmacao: "Está alternativa está incorreta. "
 {
 texto: "b) Decompor matéria orgânica",
 
-afirmacao: "Está alternativa está correta pois os fungos desempenham um papel fundamental na decomposição de matéria orgânica, contribuindo para o ciclo de nutrientes no ecossistema. "
+afirmacao: "2-B) Está alternativa está correta pois os fungos desempenham um papel fundamental na decomposição de matéria orgânica, contribuindo para o ciclo de nutrientes no ecossistema. "
 
 },
 {
@@ -80,7 +80,7 @@ afirmacao: "Está alternativa está incorreta. "
 },
 {
 texto: "b) Pães e bolos úmidos",
-afirmacao: "Está alternativa está correta pois alimentos ricos em umidade, como pães e bolos, são mais suscetíveis à contaminação por fungos devido às condições ideais para seu crescimento. "
+afirmacao: "3-B) Está alternativa está correta pois alimentos ricos em umidade, como pães e bolos, são mais suscetíveis à contaminação por fungos devido às condições ideais para seu crescimento. "
 
 },
 {
