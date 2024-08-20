@@ -27,7 +27,9 @@ afirmacao: ["Você tem um bom entendimento sobre o Reino Fungi. ",
 texto: "Alto",
 
 afirmacao: [ "Você tem tem um conhecimento aprofundado sobre o Reino Fungi",
-            " Estou cada vez melhor
+            " Preciso me aprofundar, mas tenho um bom conhecimento sobre o Reino Fungi",
+            " Meus conhecimentos estão no nível avançado."
+            ]
 }
 ]
 },
@@ -37,7 +39,7 @@ alternativas: [
 {
 texto: "a)  Locais úmidos e quentes",
 
-afirmacao: " 1-A) Esta alternativa esta correta pois os fungos se desenvolvem melhor em ambientes com alta umidade e temperatura, favorecendo seu crescimento e reprodução." 
+afirmacao: " 1-A) Esta alternativa esta correta pois os fungos se desenvolvem melhor em ambientes com alta umidade e temperatura, favorecendo seu crescimento e reprodução."
 },
 {
 texto: "b) Locais secos e frios",
