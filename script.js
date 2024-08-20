@@ -10,17 +10,24 @@ alternativas: [
 {
 texto: "Baixo",
 
-afirmacao: "Você sabe apenas a base sobre o Reino Fungi "
+afirmacao: ["Você sabe apenas a base sobre o Reino Fungi ",
+            " Preciso melhorar meus conhecimentos",
+            " Meus conhecimentos estão no nível de iniciante."
+           ]
 },
 {
 texto: "Médio",
 
-afirmacao: "Você tem um bom entendimento sobre o Reino Fungi. "
+afirmacao: ["Você tem um bom entendimento sobre o Reino Fungi. ",
+            "Estou aprendendo e preciso melhorar",
+            " Meus conhecimentos estão no nível intermediário."
+            ]
 },
 {
 texto: "Alto",
 
-afirmacao: "Você tem tem um conhecimento aprofundado sobre o Reino Fungi"
+afirmacao: [ "Você tem tem um conhecimento aprofundado sobre o Reino Fungi",
+            " Estou cada vez melhor
 }
 ]
 },
